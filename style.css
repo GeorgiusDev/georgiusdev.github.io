@@ -117,6 +117,11 @@ p {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     margin-top: 30px;
+    margin-bottom: 5rem; 
+}
+
+.catalog-section{
+    padding: 4rem 2rem;
 }
 
 .game-card {
